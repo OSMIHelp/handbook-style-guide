@@ -21,6 +21,7 @@ Bulleted lists should not have commas at the end nor be phrased as one long sent
 - red
 - green
 - blue
+
 and not:
 - red, 
 - green, 
