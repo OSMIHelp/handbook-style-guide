@@ -18,11 +18,13 @@ or
 He said he would "raise a ruckus", but I don't think he really will. 
 
 Bulleted lists should not have commas at the end nor be phrased as one long sentence over all the bullet points. For example, use:
+
 - red
 - green
 - blue
 
 and not:
+
 - red, 
 - green, 
 - and blue.
